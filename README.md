@@ -11,7 +11,7 @@
 
 **[Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/), [for the extension store support](https://github.com/NeverDecaf/chromium-web-store),** Windows/Linux
 
-**[Min Browser](https://github.com/minbrowser/min),** Windows/Linux
+**[Min](https://github.com/minbrowser/min),** Windows/Linux
 
 ### Gecko Based
 
@@ -20,3 +20,5 @@
 **[LibreWolf](https://librewolf.net/),** Windows/Linux
 
 **[Waterfox](https://www.waterfox.net/),** Windows/macOS/Linux
+
+**[Floorp](https://github.com/Floorp-Projects/Floorp), Windows/macOS/Linux
