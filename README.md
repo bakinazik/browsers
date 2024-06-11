@@ -2,7 +2,7 @@
 
 ## Web Browsers
 
-### Chromium Based
+### Chromium
 **[Cromite](https://github.com/uazo/cromite),** Windows/Linux/Android
 
 **[Brave](https://github.com/brave/brave-browser),** Windows/Linux/Android
@@ -13,7 +13,7 @@
 
 **[Min](https://github.com/minbrowser/min),** Windows/Linux
 
-### Gecko Based
+### Gecko
 
 **[Mercury](https://github.com/Alex313031/Mercury),** Windows/Linux
 
