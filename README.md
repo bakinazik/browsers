@@ -23,6 +23,8 @@
 
 **[Floorp](https://github.com/Floorp-Projects/Floorp),** Windows/macOS/Linux
 
+**[Pulse](https://github.com/pulse-browser/browser),** Windows/macOS/Linux
+
 **[Iceraven](https://github.com/fork-maintainers/iceraven-browser),** Android
 
 ### Webview
