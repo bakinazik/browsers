@@ -30,3 +30,4 @@
 ### Webview
 
 **[EinkBro](https://github.com/plateaukao/einkbro),** Android
+**[Fulguris](https://github.com/Slion/Fulguris),** Android
