@@ -11,6 +11,8 @@
 
 **[Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/), [for the extension store support](https://github.com/NeverDecaf/chromium-web-store),** Windows/Linux
 
+**[Min Browser](https://github.com/minbrowser/min),** Windows/Linux
+
 ### Gecko Based
 
 **[Mercury](https://github.com/Alex313031/Mercury),** Windows/Linux
