@@ -21,4 +21,4 @@
 
 **[Waterfox](https://www.waterfox.net/),** Windows/macOS/Linux
 
-**[Floorp](https://github.com/Floorp-Projects/Floorp), Windows/macOS/Linux
+**[Floorp](https://github.com/Floorp-Projects/Floorp),** Windows/macOS/Linux
