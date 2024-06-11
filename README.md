@@ -14,3 +14,7 @@
 ### Gecko Based
 
 **[Mercury](https://github.com/Alex313031/Mercury),** Windows/Linux
+
+**[LibreWolf](https://librewolf.net/),** Windows/Linux
+
+**[Waterfox](https://www.waterfox.net/),** Windows/macOS/Linux
