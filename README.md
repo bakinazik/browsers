@@ -32,3 +32,5 @@
 **[EinkBro](https://github.com/plateaukao/einkbro),** Android
 
 **[Fulguris](https://github.com/Slion/Fulguris),** Android
+
+**[Vita](https://github.com/mehmetumit/VitaBrowser),** Android TV
