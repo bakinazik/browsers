@@ -37,7 +37,7 @@
 
 ## Browser Tests
 
-- **[Adblock Test](https://adblock-tester.com/)**
+- **[Adblock](https://adblock-tester.com/)**
 
 - **[Security](https://browseraudit.com/)**
 
