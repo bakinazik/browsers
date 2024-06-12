@@ -34,3 +34,19 @@
 - **[Fulguris](https://github.com/Slion/Fulguris),** Android
 
 - **[Vita](https://github.com/mehmetumit/VitaBrowser),** Android TV
+
+## Browser Tests
+
+- **[Adblock Test](https://adblock-tester.com/)**
+
+- **[Security](https://browseraudit.com/)**
+
+- **[HTML Support](https://html5test.com/)**
+
+- **[Speed](https://browserbench.org/Speedometer2.1/)**
+
+- **[Network Traffic](https://www.waveform.com/tools/bufferbloat)**
+
+- **[IP Address](https://www.ipqualityscore.com/bot-management/bot-detection-check)**
+
+- **[Chromium Version Checker](https://chromiumchecker.com/)**
