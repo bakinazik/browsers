@@ -3,7 +3,7 @@
 ## Web Browsers
 
 ### Chromium
-**[Cromite](https://github.com/uazo/cromite),** Windows/Linux/Android
+- **[Cromite](https://github.com/uazo/cromite),** Windows/Linux/Android
 
 **[Brave](https://github.com/brave/brave-browser),** Windows/Linux/Android
 
