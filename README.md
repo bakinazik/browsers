@@ -1,4 +1,6 @@
-## Web Browsers
+# Web Browsers
+
+## Open Source
 
 ### Chromium
 - **[Cromite](https://github.com/uazo/cromite),** Windows/Linux/Android
@@ -33,7 +35,7 @@
 
 - **[Vita](https://github.com/mehmetumit/VitaBrowser),** Android TV
 
-## Browser Tests
+# Browser Tests
 
 - **[Adblock](https://adblock-tester.com/)**
 
