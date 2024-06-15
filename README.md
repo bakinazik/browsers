@@ -1,5 +1,3 @@
-# Privacy
-
 ## Web Browsers
 
 ### Chromium
