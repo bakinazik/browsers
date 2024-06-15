@@ -37,16 +37,16 @@
 
 # Browser Tests
 
-- **[Adblock Tester](https://adblock-tester.com/)**, **[Test Adblock](https://d3ward.github.io/toolz/adblock)**
+- Adblock: **[Adblock Tester](https://adblock-tester.com/)**, **[Test Adblock](https://d3ward.github.io/toolz/adblock)**
 
-- **[Security](https://browseraudit.com/)**
+- Security: **[Browser Audit](https://browseraudit.com/)**
 
-- **[HTML Support](https://html5test.com/)**
+- HTML Support: **[HTML5Test](https://html5test.com/)**
 
-- **[Speed](https://browserbench.org/Speedometer2.1/)**
+- Speed: **[Speedometer](https://browserbench.org/Speedometer2.1/)**
 
-- **[Network Traffic](https://www.waveform.com/tools/bufferbloat)**
+- Network Traffic: **[Bufferbloat](https://www.waveform.com/tools/bufferbloat)**
 
-- **[IP Address](https://www.ipqualityscore.com/bot-management/bot-detection-check)**
+- IP Status **[Bot Detection Check](https://www.ipqualityscore.com/bot-management/bot-detection-check)**
 
-- **[Chromium Version Checker](https://chromiumchecker.com/)**
+- Chromium CVE: **[Chromium Checker](https://chromiumchecker.com/)**
