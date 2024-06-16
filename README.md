@@ -1,7 +1,5 @@
 # Web Browsers
 
-## Open Source
-
 ### Chromium
 - **[Cromite](https://github.com/uazo/cromite),** Windows/Linux/Android
 
