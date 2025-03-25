@@ -12,14 +12,14 @@
 ### Gecko
 
 - **[Zen](https://github.com/zen-browser/desktop)** Windows/Linux
+ 
+- **[Floorp](https://github.com/Floorp-Projects/Floorp),** Windows/macOS/Linux
 
-- **[Mercury](https://github.com/Alex313031/Mercury),** Windows/Linux
+ - **[Waterfox](https://www.waterfox.net/),** Windows/macOS/Linux
 
 - **[LibreWolf](https://librewolf.net/),** Windows/Linux
-
-- **[Waterfox](https://www.waterfox.net/),** Windows/macOS/Linux
-
-- **[Floorp](https://github.com/Floorp-Projects/Floorp),** Windows/macOS/Linux
+  
+- **[Mercury](https://github.com/Alex313031/Mercury),** Windows/Linux
 
 - **[Iceraven](https://github.com/fork-maintainers/iceraven-browser),** Android
 
