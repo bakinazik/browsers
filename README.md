@@ -9,8 +9,6 @@
 
 - **[Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/), [for the extension store support](https://github.com/NeverDecaf/chromium-web-store),** Windows/Linux
 
-- **[Min](https://github.com/minbrowser/min),** Windows/Linux
-
 ### Gecko
 
 - **[Mercury](https://github.com/Alex313031/Mercury),** Windows/Linux
@@ -20,8 +18,6 @@
 - **[Waterfox](https://www.waterfox.net/),** Windows/macOS/Linux
 
 - **[Floorp](https://github.com/Floorp-Projects/Floorp),** Windows/macOS/Linux
-
-- **[Pulse](https://github.com/pulse-browser/browser),** Windows/macOS/Linux
 
 - **[Iceraven](https://github.com/fork-maintainers/iceraven-browser),** Android
 
