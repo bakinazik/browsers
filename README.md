@@ -39,7 +39,7 @@
 
 - Security: **[Browser Audit](https://browseraudit.com/)**
 
-- HTML Support: **[HTML5Test](https://html5test.com/)**
+- HTML Support: **[HTML5Test](https://html5test.co/)**
 
 - Speed: **[Speedometer](https://browserbench.org/Speedometer2.1/)**
 
