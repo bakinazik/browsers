@@ -35,7 +35,7 @@
 
 # Browser Tests
 
-- Adblock: **[Adblock Tester](https://adblock-tester.com/)**, **[Test Adblock](https://d3ward.github.io/toolz/adblock)**
+- Adblock: **[Adblock Tester](https://adblock-tester.com/)**, **[Test Adblock](https://adblock.turtlecute.org/)**
 
 - Security: **[Browser Audit](https://browseraudit.com/)**
 
