@@ -11,6 +11,8 @@
 
 ### Gecko
 
+- **[Zen](https://github.com/zen-browser/desktop)** Windows/Linux
+
 - **[Mercury](https://github.com/Alex313031/Mercury),** Windows/Linux
 
 - **[LibreWolf](https://librewolf.net/),** Windows/Linux
