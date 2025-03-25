@@ -7,7 +7,7 @@
 
 - **[Thorium](https://github.com/Alex313031/Thorium),** Windows/Linux/macOS/Android
 
-- **[Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/), [for the extension store support](https://github.com/NeverDecaf/chromium-web-store),** Windows/Linux
+- **[Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/), [chrome web store support](https://github.com/NeverDecaf/chromium-web-store),** Windows/Linux
 
 ### Gecko
 
